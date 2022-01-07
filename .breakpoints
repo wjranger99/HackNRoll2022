@@ -1,0 +1,28 @@
+{
+  "files": {
+    ".gitignor": [
+      {
+        "id": "f6ba3756-fcbd-4145-b15f-fa7f8a642981",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    ".gitignore": [
+      {
+        "id": "fd915eb7-16c9-45d9-8503-305936cc44d5",
+        "line": 2,
+        "version": 6,
+        "index": 6
+      }
+    ],
+    "main.py": [
+      {
+        "id": "c10d3304-ec17-488e-8d9d-7050f50925ce",
+        "line": 1,
+        "version": 3204,
+        "index": 0
+      }
+    ]
+  }
+}
